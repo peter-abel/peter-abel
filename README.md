@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peter-abel
-- 👀 I’m interested in software/data engineering/data science
+- 👀 I’m interested in software/data engineering
 - 🌱 I’m currently learning Data engineering, Data science and django framework for webdev
 - 💞️ I’m looking to collaborate on challenging and impactful projects.
 - 📫 How to reach me email:peterabel791@gmail.com
